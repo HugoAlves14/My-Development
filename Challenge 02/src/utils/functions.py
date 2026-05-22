@@ -1,4 +1,4 @@
-def validation_grade():
+def validation_grade(grade):
     while True:
         grade = float(input("Enter the grade: "))
 
